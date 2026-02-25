@@ -1,0 +1,28 @@
+# -------------------
+# Python cache
+# -------------------
+__pycache__/
+*.pyc
+
+# -------------------
+# PyInstaller
+# -------------------
+build/
+dist/
+*.spec
+
+# -------------------
+# Local downloads
+# -------------------
+downloads/
+
+# -------------------
+# FFmpeg extracted build
+# -------------------
+ffmpeg-essentials_build/
+
+# -------------------
+# OS files
+# -------------------
+Thumbs.db
+.DS_Store

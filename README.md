@@ -10,4 +10,7 @@ Descargador de YouTube simple y básico creado con fines de aprendizaje.
 
 <p>
 <img width="422" height="232" alt="image" src="https://github.com/user-attachments/assets/f6737f02-315e-49df-96e3-90c864062c90" />
+
+  Descarga FFmpeg desde: https://ffmpeg.org/download.html
+
 <p>

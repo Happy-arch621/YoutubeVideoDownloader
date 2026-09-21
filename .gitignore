@@ -1,28 +1,41 @@
-# -------------------
-# Python cache
-# -------------------
+
+*.exe
+*.dll
+*.so
+*.dylib
 __pycache__/
-*.pyc
-
-# -------------------
-# PyInstaller
-# -------------------
+*.py[cod]
+*$py.class
+*.so
+.Python
 build/
+develop-eggs/
 dist/
-*.spec
-
-# -------------------
-# Local downloads
-# -------------------
 downloads/
-
-# -------------------
-# FFmpeg extracted build
-# -------------------
-ffmpeg-essentials_build/
-
-# -------------------
-# OS files
-# -------------------
-Thumbs.db
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+venv/
+ENV/
+env/
+.venv
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
 .DS_Store
+Thumbs.db
+.env
+.env.local
+config.local.json
+ffmpeg*
+ffprobe*
